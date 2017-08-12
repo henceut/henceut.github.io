@@ -1,0 +1,8 @@
+<p class="lead">{{ if .Site.Params.ShowReadTime }}
+  Sekitar {{ .ReadingTime }} menit membaca
+{{ end }}</p>
+<span>Ditulis oleh: <a href="#"><span class="text-primary"> {{ .Site.Params.Author }}</span></a> </span><br> pada {{ dateFormat .Site.Params.DateForm .Date }}
+<br />
+{{ partial "categories.html" .}}
+<br />
+{{ partial "tags.html" .}}

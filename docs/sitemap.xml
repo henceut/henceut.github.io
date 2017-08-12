@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/lookatme/</loc>
+    <loc>https://xiaolong3.github.io/sintax/post/lookatme/</loc>
     <lastmod>2017-08-11T20:28:08+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2017-08-11T20:28:08+07:00</lastmod>
+    <loc>https://xiaolong3.github.io/sintax/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+    <loc>https://xiaolong3.github.io/sintax/post/</loc>
     <lastmod>2017-08-11T20:28:08+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://xiaolong3.github.io/sintax/</loc>
+    <lastmod>2017-08-11T20:28:08+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaolong3.github.io/sintax/tags/</loc>
     <priority>0</priority>
   </url>
   

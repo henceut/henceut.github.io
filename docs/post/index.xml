@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Amay Hugo</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Amay Hugo</description>
+    <title>Posts on Start Bootstrap Clean Blog</title>
+    <link>https://xiaolong3.github.io/sintax/post/</link>
+    <description>Recent content in Posts on Start Bootstrap Clean Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>id</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
     <lastBuildDate>Fri, 11 Aug 2017 20:28:08 +0700</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xiaolong3.github.io/sintax/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lookatme</title>
-      <link>/post/lookatme/</link>
+      <link>https://xiaolong3.github.io/sintax/post/lookatme/</link>
       <pubDate>Fri, 11 Aug 2017 20:28:08 +0700</pubDate>
       
-      <guid>/post/lookatme/</guid>
+      <guid>https://xiaolong3.github.io/sintax/post/lookatme/</guid>
       <description></description>
     </item>
     
