@@ -1,5 +1,5 @@
-baseurl = "https://xiaolong3.github.io/sintax"
-title = "Start Bootstrap Clean Blog"
+baseurl = "https://henceut.github.io/sintax"
+title = "Henceut Bau"
 canonifyurls = true
 paginate = 10
 theme = "startbootstrap-clean-blog"
@@ -10,7 +10,7 @@ googleAnalytics = "UA-123-45" # delete or comment to disable Google Analytics JS
 disqusShortname = "YourDisqusShortname" #delete or comment to disable Disqus comments
 
 [author]
-  name = "Benoît Benedetti"
+  name = "Kamal Hamzah"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
