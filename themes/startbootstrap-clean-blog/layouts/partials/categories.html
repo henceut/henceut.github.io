@@ -1,7 +1,7 @@
-Kategori: {{ range $index, $c :=  .Params.categories }}
+In {{ range $index, $c :=  .Params.categories }}
   {{- if eq $index 0 -}}
-    <a href="/categories/{{ urlize . }}"><span class="label label-primary">{{ title . }}</span></a>
+    <a href="/categories/{{ urlize . }}">{{ title . }}</a>
   {{- else -}}
-    , <a href="/categories/{{ urlize . }}"><span class="label label-primary">{{ title . }}</span></a>
+    , <a href="/categories/{{ urlize . }}">{{ title . }}</a>
   {{- end -}}
 {{ end }}
