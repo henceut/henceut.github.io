@@ -1,4 +1,4 @@
-baseurl = "https://henceut.github.io/sintax"
+baseurl = "https://henceut.github.io"
 title = "Henceut Bau"
 canonifyurls = true
 paginate = 10
